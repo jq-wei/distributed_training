@@ -1,1 +1,0 @@
-Here we build distributed training platform with multiple GPU/NPU using torch only. 
